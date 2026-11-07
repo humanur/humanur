@@ -1,4 +1,4 @@
-<img width="640" height="360" alt="lofi-girl" src="https://github.com/user-attachments/assets/59803434-267a-47a0-a316-86e790f8e5c4" />
+<img width="640" height="360" align="center" alt="lofi-girl" src="https://github.com/user-attachments/assets/59803434-267a-47a0-a316-86e790f8e5c4" />
 
 <h1 align="center">Hi, I'm Amine Hümanur</h1>
 <h3 align="center">Computer & Instructional Technologies graduate, building code at 42 Kocaeli</h3>
