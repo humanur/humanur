@@ -1,7 +1,9 @@
-![MasterHead](assets/header.gif)
+<!-- 👇 GIF'İ BURAYA EKLE: aşağıdaki satırı silip gif'i tam bu boşluğa sürükle-bırak yap 👇 -->
+![MasterHead](GIF_BAGLANTISI)
+<!-- 👆 GIF BURAYA 👆 -->
 
 <h1 align="center">Hi 👋, I'm Amine Hümanur</h1>
-<h3 align="center">Computer & Instructional Technologies graduate, building clean code at 42 Istanbul</h3>
+<h3 align="center">Computer & Instructional Technologies graduate, building clean code at 42 Kocaeli</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profile%20views&color=0e75b6&style=flat" alt="KULLANICI_ADIN" /> </p>
 
