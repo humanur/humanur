@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Amine Hümanur</h1>
 <h3 align="center">Computer & Instructional Technologies graduate, building clean code at 42 Kocaeli</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profile%20views&color=0e75b6&style=flat" alt="KULLANICI_ADIN" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humanur&label=Profile%20views&color=0e75b6&style=flat" alt="humanur" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,6 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humanur/humanur/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/humanur/humanur/output/github-snake.svg" />
 </picture>
