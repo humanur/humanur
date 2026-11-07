@@ -1,6 +1,3 @@
-https://cdnb.artstation.com/p/assets/images/images/016/596/409/original/fernando-henrique-lofi-animation.gif?1552749455
-
-<img width="1024" height="1024" alt="girl_study" src="https://github.com/user-attachments/assets/678f6609-41a4-4bd6-8657-29c7dd3078d2" />
 
 <img width="1024" height="1024" alt="girl_study" src="https://github.com/user-attachments/assets/9ae04618-2896-4e16-8354-473502e22b43" />
 
