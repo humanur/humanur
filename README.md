@@ -1,5 +1,4 @@
-
-<img width="1024" height="1024" alt="girl_study" src="https://github.com/user-attachments/assets/9ae04618-2896-4e16-8354-473502e22b43" />
+<img width="1024" height="572" alt="girl_studyy" src="https://github.com/user-attachments/assets/0cfcf5ce-edde-4c73-8e8b-c0ac02b82cea" />
 
 <h1 align="center">Hi 👋, I'm Amine Hümanur</h1>
 <h3 align="center">Computer & Instructional Technologies graduate, building clean code at 42 Kocaeli</h3>
