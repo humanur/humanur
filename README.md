@@ -1,6 +1,6 @@
 <img width="1024" height="572" alt="girl_studyy" src="https://github.com/user-attachments/assets/0cfcf5ce-edde-4c73-8e8b-c0ac02b82cea" />
 
-<h1 align="center">Hi 👋, I'm Amine Hümanur</h1>
+<h1 align="center">Hi, I'm Amine Hümanur</h1>
 <h3 align="center">Computer & Instructional Technologies graduate, building code at 42 Kocaeli</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humanur&label=Profile%20views&color=0e75b6&style=flat" alt="humanur" /> </p>
