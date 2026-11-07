@@ -1,6 +1,4 @@
-<!-- 👇 GIF'İ BURAYA EKLE: aşağıdaki satırı silip gif'i tam bu boşluğa sürükle-bırak yap 👇 -->
-![MasterHead](GIF_BAGLANTISI)
-<!-- 👆 GIF BURAYA 👆 -->
+![Uploading girl_study.gif…]()
 
 <h1 align="center">Hi 👋, I'm Amine Hümanur</h1>
 <h3 align="center">Computer & Instructional Technologies graduate, building clean code at 42 Kocaeli</h3>
