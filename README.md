@@ -20,4 +20,4 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humanur/humanur/output/github-snake-dark.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/humanur/humanur/output/github-snake.svg" />
-</picture>
+</picture> 
